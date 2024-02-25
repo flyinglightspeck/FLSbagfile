@@ -102,6 +102,24 @@ The unit tests clean up after themselves, leaving no residual files behind.
 
 BibTex:
 ```
+@inproceedings{10.1145/3587819.3592544,
+author = {Alimohammadzadeh, Hamed and Mehraban, Daryon and Ghandeharizadeh, Shahram},
+title = {Modeling Illumination Data with Flying Light Specks},
+year = {2023},
+isbn = {9798400701481},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3587819.3592544},
+doi = {10.1145/3587819.3592544},
+booktitle = {Proceedings of the 14th Conference on ACM Multimedia Systems},
+pages = {363–368},
+numpages = {6},
+keywords = {data representation, flight paths, bag file, flying light specks, point clouds, 3D display},
+location = {Vancouver, BC, Canada},
+series = {MMSys '23}
+}
+```
+```
 @inproceedings{10.1145/3503161.3548250,
 author = {Ghandeharizadeh, Shahram},
 title = {Display of 3D Illuminations using Flying Light Specks},
